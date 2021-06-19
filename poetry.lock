@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "A random animal lib"
+name = "animal"
+optional = false
+python-versions = "*"
+version = "0.1"
+
+[metadata]
+content-hash = "c939539141bc66e1742227ce29ca419e680d3d8f149a81b1c8922b47bccf37ef"
+python-versions = "^3.8"
+
+[metadata.files]
+animal = [
+    {file = "animal-0.1.zip", hash = "sha256:92311c51d8ae3abc058e8410d6a370c9861e5e17c5c1f881cdaa80cbdef40910"},
+]
